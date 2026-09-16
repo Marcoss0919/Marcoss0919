@@ -21,13 +21,6 @@ Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e
 
 ---
 
-## 📂 Projetos em destaque
-- [Landing Page - Salão de Manicure](link)  
-- [Casos de Teste - Projeto Exemplo](link)  
-- [To-Do List em JavaScript](link)  
-
----
-
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/marcos-felipe-5b56a6317](https://www.linkedin.com/in/marcos-felipe-5b56a6317)  
 - GitHub: [github.com/Marcos0919](https://github.com/Marcos0919)  
